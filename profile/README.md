@@ -1,4 +1,4 @@
-# Hack University Initiative Worldwide
+# Hack University Worldwide Initiative 
 
 ## Empowering Tomorrow's Innovators
 
